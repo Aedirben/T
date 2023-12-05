@@ -1,66 +1,6 @@
-{
-  "header": {
-    "attrs": {},
-    "raw": "#EXTM3U"
-  },
-  "items": [
-    {
-      "name": "Nuta TV (720p)",
-      "tvg": {
-        "id": "NutaTV.pl",
-        "name": "",
-        "logo": "https://i.imgur.com/JHFUxDu.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Undefined"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"NutaTV.pl\" tvg-logo=\"https://i.imgur.com/JHFUxDu.png\" group-title=\"Undefined\",Nuta TV (720p)\r\nhttps://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8",
-      "line": 35,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
-      "name": "Polo TV (720p)",
-      "tvg": {
-        "id": "PoloTV.pl",
-        "name": "",
-        "logo": "https://i.imgur.com/GEJZjRB.png",
-        "url": "",
-        "rec": "",
-        "shift": ""
-      },
-      "group": {
-        "title": "Undefined"
-      },
-      "http": {
-        "referrer": "",
-        "user-agent": ""
-      },
-      "url": "https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8",
-      "raw": "#EXTINF:-1 tvg-id=\"PoloTV.pl\" tvg-logo=\"https://i.imgur.com/GEJZjRB.png\" group-title=\"Undefined\",Polo TV (720p)\r\nhttps://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8",
-      "line": 39,
-      "catchup": {
-        "type": "",
-        "days": "",
-        "source": ""
-      },
-      "timeshift": "",
-      "status": "OK"
-    },
-    {
+#EXTINF:-1 tvg-id=\"NutaTV.pl\" tvg-logo=\"https://i.imgur.com/JHFUxDu.png\" group-title=\"Undefined\",Nuta TV (720p)\r\nhttps://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8",
+https://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8    
+      
       "name": "Polsat 2 (720p)",
       "tvg": {
         "id": "Polsat2.pl",
