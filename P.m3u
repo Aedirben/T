@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id=\"NutaTV.pl\" tvg-logo=\"https://i.imgur.com/JHFUxDu.png\" group-title=\"Undefined\",Nuta TV (720p)\r\nhttps://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8",
-https://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8    
+
+https://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8  
+
       
       "name": "Polsat 2 (720p)",
       "tvg": {
