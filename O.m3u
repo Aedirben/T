@@ -8,6 +8,9 @@ https://player.odycdn.com/api/v3/streams/free/466025668_TERMINATOR-2-JUDGEMENT-D
 http://195.154.166.82/AFLAM1/VOD/NETFILX/After.Everything.2023.mkv
 
 
+#EXTINF:-1 tvg-name="TF1 Series Films" group-title="FR" tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-id="",TF1 Series Films
+http://livetv.ktv.zone/22/play.m3u8
+
 
 Server ID:           1
 Host:                127.0.0.1
