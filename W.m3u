@@ -5,9 +5,10 @@ https://cdn-main.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 
 EXTINF:-1 tvg-id=\"dlaCiebietv.pl\" tvg-logo=\"https://i.imgur.com/Tf32BJa.png\" group-title=\"Undefined\",dlaCiebie.tv (1080p) [Not 24/7]\r\
-nhttp://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
 
-#EXTINF:-1 tvg-id=\"4FunTV.pl\" tvg-logo=\"https://i.imgur.com/rI1wo2l.png\" group-title=\"Undefined\",4FUN TV (576p) [Not 24/7]\r\nhttps://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id=\"4FunTV.pl\" tvg-logo=\"https://i.imgur.com/rI1wo2l.png\" group-title=\"Undefined\",4FUN TV (576p) [Not 24/7]\r\n
+https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1 tvg-id=\"NickJr.pl\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png\" group-title=\"Kids\",Nick Jr. (576p)\r\n
 https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8
