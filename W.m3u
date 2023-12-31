@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:0,1. poloTV
+#EXTINF:-1 group-title="Pl",PoloTv
 https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 
 
