@@ -5,11 +5,14 @@ https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/Polsat2.stream/playlist.m3u8
       
 #EXTINF:0 group-title="Pl",Polsat
+https://cdn-main.lolokoko.tv/Polsat.stream/playlist.m3u8
+      
 
 #EXTINF:0 group-title="Pl",TVP
+https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
 
-
-#EXTINF:0 group-title="Pl",TVP2
+#EXTINF:0 group-title="Pl",Polsat Film
+https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
 
 
 #EXTM3U
@@ -11371,7 +11374,4 @@ https://mults.info/mp4/gribok_teremok.mp4
 https://mults.info/mp4/dve_skazki.mp4
 #EXTINF:-1 group-title="МультЗал ",Дядя Миша
 https://mults.info/mp4/dyadya_misha.mp4
-#EXTINF:-1 group-title="МультЗал ",Кот-рыболов
-https://mults.info/mp4/kot_rybolov.mp4
-#EXTINF:-1 group-title="МультЗал ",Кто получит приз
-https://mults.info/mp4/kto_poluchit_priz.mp4
+#EXTINF:-1 group-tit
