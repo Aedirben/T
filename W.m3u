@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kid",Disney Junior
-https://cdn-main.lolokoko.tv/DisneyJunior.stream/playlist.m3u8
+#EXTINF:0,1. poloTV
+https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="Kid",Disney XD
 https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
@@ -16,7 +16,7 @@ https://cdn-main.lolokoko.tv/NickJr.stream/playlist.m3u8
 
    
 #EXTINF:-1  tvg-logo="https://i.imgur.com/GEJZjRB.png" group-title="Music",Polo TV 
-https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8"
+https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 
 
 "#EXTINF:-1  tvg-logo="https://i.imgur.com/JHFUxDu.png" group-title="Undefined",Nuta TV 
