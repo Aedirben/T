@@ -79,8 +79,6 @@ https://cdn-main.lolokoko.tv/tbn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Polska",Ducktv HD
 https://cdn-main.lolokoko.tv/Ducktv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="XXX ADULT XXX",private HD
-https://cdn-main.lolokoko.tv/private.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",TELETOON HD
 https://cdn-main.lolokoko.tv/TELETOON.stream/playlist.m3u8
@@ -94,11 +92,6 @@ https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 #EXTINF:-1 group-title="Polska",SUNDANCE HD
 https://cdn-main.lolokoko.tv/SUNDANCE.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="XXX ADULT XXX",HUSTLER HD
-https://cdn-main.lolokoko.tv/HUSTLER.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="XXX ADULT XXX",BRAZZERS HD
-https://cdn-main.lolokoko.tv/BRAZZERS.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",dizi HD
 https://cdn-main.lolokoko.tv/dizi.stream/playlist.m3u8
@@ -136,8 +129,6 @@ https://cdn-main.lolokoko.tv/BabyTV.stream/playlist.m3u8
 #EXTINF:-1 group-title="Polska",VIASATHISTORY HD
 https://cdn-main.lolokoko.tv/VIASATHISTORY.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="XXX ADULT XXX",DorcelTV HD
-https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",Polonia1 HD
 https://cdn-main.lolokoko.tv/Polonia1.stream/playlist.m3u8
@@ -157,11 +148,9 @@ https://cdn-main.lolokoko.tv/discoverychannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="Polska",4funtv
 https://cdn-main.lolokoko.tv/4funtv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="XXX ADULT XXX",eroxxx HD
-https://cdn-main.lolokoko.tv/eroxxx.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="XXX ADULT XXX",XXL
-https://cdn-main.lolokoko.tv/xxl.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Polska",amc HD
 https://cdn-main.lolokoko.tv/amc.stream/playlist.m3u8
