@@ -14,19 +14,202 @@ https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Polska",Polsat Film
 https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
 
-https://cdn-main.lolokoko.tv/Polonia1.stream/playlist.m3u8
 
 
-https://cdn-main.lolokoko.tv/DaVinci.stream/playlist.m3u8
-
-https://cdn-main.lolokoko.tv/axnwhite.stream/playlist.m3u8
-
-https://cdn-main.lolokoko.tv/axnblack.stream/playlist.m3u8
-
-https://cdn-main.lolokoko.tv/polsatsport.stream/playlist.m3u8
 
 
-https://cdn-main.lolokoko.tv/powertv.stream/playlist.m3u8
+EXTINF:-1,nicktoons HD
+http://cdn-global.lolokoko.tv/nicktoons.stream/playlist.m3u8
+
+EXTINF:-1,WaterPlanet HD
+http://cdn-global.lolokoko.tv/WaterPlanet.stream/playlist.m3u8
+
+EXTINF:-1,natgeowild HD
+http://cdn-global.lolokoko.tv/natgeowild.stream/playlist.m3u8
+
+EXTINF:-1,DaVinci
+http://cdn-global.lolokoko.tv/DaVinci.stream/playlist.m3u8
+
+EXTINF:-1,NICKELODEON
+http://cdn-global.lolokoko.tv/NICKELODEON.stream/playlist.m3u8
+
+EXTINF:-1,EskaTVExtra HD
+http://cdn-global.lolokoko.tv/EskaTVExtra.stream/playlist.m3u8
+
+EXTINF:-1,axnwhite HD
+http://cdn-global.lolokoko.tv/axnwhite.stream/playlist.m3u8
+
+EXTINF:-1,axnblack HD
+http://cdn-global.lolokoko.tv/axnblack.stream/playlist.m3u8
+
+EXTINF:-1,tvpabc
+http://cdn-global.lolokoko.tv/tvpabc.stream/playlist.m3u8
+
+EXTINF:-1,filmboxfamily
+http://cdn-global.lolokoko.tv/filmboxfamily.stream/playlist.m3u8
+
+EXTINF:-1,ParamountChannel HD
+http://cdn-global.lolokoko.tv/ParamountChannel.stream/playlist.m3u8
+
+
+EXTINF:-1,polsatsport HD
+http://cdn-global.lolokoko.tv/polsatsport.stream/playlist.m3u8
+
+EXTINF:-1,polsatcafe HD
+http://cdn-global.lolokoko.tv/polsatcafe.stream/playlist.m3u8
+
+EXTINF:-1,FoodNetwork HD
+http://cdn-global.lolokoko.tv/FoodNetwork.stream/playlist.m3u8
+
+EXTINF:-1,polsatplay HD
+http://cdn-global.lolokoko.tv/polsatplay.stream/playlist.m3u8
+
+EXTINF:-1,hgtv HD
+http://cdn-global.lolokoko.tv/hgtv.stream/playlist.m3u8
+
+EXTINF:-1,Tele5 HD
+http://cdn-global.lolokoko.tv/Tele5.stream/playlist.m3u8
+
+EXTINF:-1,VIASATNATURE HD
+http://cdn-global.lolokoko.tv/VIASATNATURE.stream/playlist.m3u8
+
+EXTINF:-1,bollywood HD
+http://cdn-global.lolokoko.tv/bollywood.stream/playlist.m3u8
+
+EXTINF:-1,tbn HD
+http://cdn-global.lolokoko.tv/tbn.stream/playlist.m3u8
+
+EXTINF:-1,Ducktv HD
+http://cdn-global.lolokoko.tv/Ducktv.stream/playlist.m3u8
+
+EXTINF:-1 group-title="XXX ADULT XXX",private HD
+http://cdn-global.lolokoko.tv/private.stream/playlist.m3u8
+
+EXTINF:-1,TELETOON HD
+http://cdn-global.lolokoko.tv/TELETOON.stream/playlist.m3u8
+
+EXTINF:-1,HBO2 HD
+http://cdn-global.lolokoko.tv/HBO2.stream/playlist.m3u8
+
+EXTINF:-1,NatGeoPeople HD
+http://cdn-global.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
+
+EXTINF:-1,SUNDANCE HD
+http://cdn-global.lolokoko.tv/SUNDANCE.stream/playlist.m3u8
+
+EXTINF:-1 group-title="XXX ADULT XXX",HUSTLER HD
+http://cdn-global.lolokoko.tv/HUSTLER.stream/playlist.m3u8
+
+EXTINF:-1 group-title="XXX ADULT XXX",BRAZZERS HD
+http://cdn-global.lolokoko.tv/BRAZZERS.stream/playlist.m3u8
+
+EXTINF:-1,dizi HD
+http://cdn-global.lolokoko.tv/dizi.stream/playlist.m3u8
+
+EXTINF:-1,MTVLIVE
+http://cdn-global.lolokoko.tv/MTVLIVE.stream/playlist.m3u8
+
+EXTINF:-1,CBeebies
+http://cdn-global.lolokoko.tv/CBeebies.stream/playlist.m3u8
+
+EXTINF:-1,JUNIOR HD
+http://cdn-global.lolokoko.tv/JUNIOR.stream/playlist.m3u8
+
+EXTINF:-1,EpicDrama HD
+http://cdn-global.lolokoko.tv/EpicDrama.stream/playlist.m3u8
+
+EXTINF:-1,Kinopolska HD
+http://cdn-global.lolokoko.tv/Kinopolska.stream/playlist.m3u8
+
+EXTINF:-1,filmbox HD
+http://cdn-global.lolokoko.tv/filmbox.stream/playlist.m3u8
+
+EXTINF:-1,fightbox HD
+http://cdn-global.lolokoko.tv/fightbox.stream/playlist.m3u8
+
+EXTINF:-1,ActiveFamily HD
+http://cdn-global.lolokoko.tv/ActiveFamily.stream/playlist.m3u8
+
+EXTINF:-1,VH1
+http://cdn-global.lolokoko.tv/VH1.stream/playlist.m3u8
+
+EXTINF:-1,BabyTV
+http://cdn-global.lolokoko.tv/BabyTV.stream/playlist.m3u8
+
+EXTINF:-1,VIASATHISTORY HD
+http://cdn-global.lolokoko.tv/VIASATHISTORY.stream/playlist.m3u8
+
+EXTINF:-1 group-title="XXX ADULT XXX",DorcelTV HD
+http://cdn-global.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+
+EXTINF:-1,Polonia1 HD
+http://cdn-global.lolokoko.tv/Polonia1.stream/playlist.m3u8
+
+EXTINF:-1,TLC HD
+http://cdn-global.lolokoko.tv/Tlc.stream/playlist.m3u8
+
+EXTINF:-1,ANIMALPLANET HD
+http://cdn-global.lolokoko.tv/ANIMALPLANET.stream/playlist.m3u8
+
+EXTINF:-1,nationalgeographic HD
+http://cdn-global.lolokoko.tv/nationalgeographic.stream/playlist.m3u8
+
+EXTINF:-1,discoverychannel HD
+http://cdn-global.lolokoko.tv/discoverychannel.stream/playlist.m3u8
+
+EXTINF:-1,4funtv
+http://cdn-global.lolokoko.tv/4funtv.stream/playlist.m3u8
+
+EXTINF:-1 group-title="XXX ADULT XXX",eroxxx HD
+http://cdn-global.lolokoko.tv/eroxxx.stream/playlist.m3u8
+
+EXTINF:-1 group-title="XXX ADULT XXX",XXL
+http://cdn-global.lolokoko.tv/xxl.stream/playlist.m3u8
+
+EXTINF:-1,amc HD
+http://cdn-global.lolokoko.tv/amc.stream/playlist.m3u8
+
+EXTINF:-1,BBCEarth HD
+http://cdn-global.lolokoko.tv/BBCEarth.stream/playlist.m3u8
+
+EXTINF:-1,EuroSport1 HD
+http://cdn-global.lolokoko.tv/EuroSport1.stream/playlist.m3u8
+
+EXTINF:-1,DTX HD
+http://cdn-global.lolokoko.tv/DTX.stream/playlist.m3u8
+
+EXTINF:-1,powertv
+http://cdn-global.lolokoko.tv/powertv.stream/playlist.m3u8
+
+EXTINF:-1,cinemaxhd HD
+http://cdn-global.lolokoko.tv/cinemaxhd.stream/playlist.m3u8
+
+EXTINF:-1,SuperPolsat HD
+http://cdn-global.lolokoko.tv/SuperPolsat.stream/playlist.m3u8
+
+EXTINF:-1,TVN7 HD
+http://cdn-global.lolokoko.tv/TVN7.stream/playlist.m3u8
+
+EXTINF:-1,TVN HD
+http://cdn-global.lolokoko.tv/TVN.stream/playlist.m3u8
+
+EXTINF:-1,TVP2 HD
+http://cdn-global.lolokoko.tv/TVP2.stream/playlist.m3u8
+
+EXTINF:-1,TVP1 HD
+http://cdn-global.lolokoko.tv/TVP1.stream/playlist.m3u8
+
+EXTINF:-1,H2 HD
+http://cdn-global.lolokoko.tv/H2.stream/playlist.m3u8
+
+EXTINF:-1,HISTORY HD
+http://cdn-global.lolokoko.tv/HISTORY.stream/playlist.m3u8
+
+EXTINF:-1,FilmBoxArthouse
+http://cdn-global.lolokoko.tv/FilmBoxArthouse.stream/playlist.m3u8
+
+EXTINF:-1,FilmBoxPremium HD
+http://cdn-global.lolokoko.tv/FilmBoxPremium.stream/playlist.m3u8
 
 
 
