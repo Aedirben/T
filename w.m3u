@@ -19,6 +19,17 @@ https://cdn-main.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polska",Polsat Doku
 https://cdn-main.lolokoko.tv/PolsatDoku.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Polska",Polsat Café
+https://cdn-main.lolokoko.tv/PolsatCafe.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Polska",Polsat News
+https://cdn-main.lolokoko.tv/PolsatNews.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Polska",Polsat News 2
+https://cdn-main.lolokoko.tv/PolsatNews2.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Polska",Polsat Rodzina
 https://cdn-main.lolokoko.tv/PolsatRodzina.stream/playlist.m3u8
 
@@ -230,7 +241,7 @@ https://cdn-main.lolokoko.tv/FilmBoxPremium.stream/playlist.m3u8
 
 https://rentry.co/e4hei
 
-
+https://freenote.biz/index.php/YW1lmdwPSF
 
 
 #EXTINF:-1 tvg-id="ZuidWestTV.nl",ZuidWest TV (480p)
@@ -11618,6 +11629,11 @@ https://mults.info/mp4/dve_skazki.mp4
 #EXTINF:-1 group-title="МультЗал ",Дядя Миша
 https://mults.info/mp4/dyadya_misha.mp4
 #EXTINF:-1 group-tit
+
+https://freenote.biz/index.php/YW1lmdwPSF
+
+
+
 
 
 
