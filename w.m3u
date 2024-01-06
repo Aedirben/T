@@ -21,10 +21,10 @@ https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
 EXTINF:-1 group-title="Polska",nicktoons HD
 https://cdn-main.lolokoko.tv/nicktoons.stream/playlist.m3u8
 
-EXTINF:-1,WaterPlanet HD
+EXTINF:-1 group-title="Polska",WaterPlanet HD
 https://cdn-main.lolokoko.tv/WaterPlanet.stream/playlist.m3u8
 
-EXTINF:-1,natgeowild HD
+EXTINF:-1 group-title="Polska",natgeowild HD
 https://cdn-main.lolokoko.tv/natgeowild.stream/playlist.m3u8
 
 EXTINF:-1,DaVinci
