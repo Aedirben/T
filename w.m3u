@@ -7,6 +7,15 @@ https://cdn-main.lolokoko.tv/DiscoPoloMusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polska",TVS
 https://cdn-main.lolokoko.tv/TVS.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Polska",TVP Kultura    
+https://cdn-main.lolokoko.tv/TVPKultura.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Polska",TVP Historia
+https://cdn-main.lolokoko.tv/TVPHistoria.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Polska",TVP Polonia
+https://cdn-main.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Polska",Polsat 2
 https://cdn-main.lolokoko.tv/Polsat2.stream/playlist.m3u8
       
