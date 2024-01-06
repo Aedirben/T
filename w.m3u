@@ -16,6 +16,21 @@ https://cdn-main.lolokoko.tv/TVPHistoria.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polska",TVP Polonia
 https://cdn-main.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Polska",Polsat Doku
+https://cdn-main.lolokoko.tv/PolsatDoku.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Polska",Polsat Rodzina
+https://cdn-main.lolokoko.tv/PolsatRodzina.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska", Polsat Games
+https://cdn-main.lolokoko.tv/PolsatGames.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska", Polsat Music
+https://cdn-main.lolokoko.tv/PolsatMusic.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska", Super Polsat 
+https://cdn-main.lolokoko.tv/SuperPolsat.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Polska",Polsat 2
 https://cdn-main.lolokoko.tv/Polsat2.stream/playlist.m3u8
       
