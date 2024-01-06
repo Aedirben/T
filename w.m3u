@@ -15,200 +15,198 @@ https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
 
 
-EXTINF:-1 group-title="Polska",nicktoons HD
+#EXTINF:-1 group-title="Polska",nicktoons HD
 https://cdn-main.lolokoko.tv/nicktoons.stream/playlist.m3u8
 
-EXTINF:-1 group-title="Polska",WaterPlanet HD
+#EXTINF:-1 group-title="Polska",WaterPlanet HD
 https://cdn-main.lolokoko.tv/WaterPlanet.stream/playlist.m3u8
 
-EXTINF:-1 group-title="Polska",natgeowild HD
+#EXTINF:-1 group-title="Polska",natgeowild HD
 https://cdn-main.lolokoko.tv/natgeowild.stream/playlist.m3u8
 
-EXTINF:-1,DaVinci
+#EXTINF:-1 group-title="Polska",DaVinci
 https://cdn-main.lolokoko.tv/DaVinci.stream/playlist.m3u8
 
-EXTINF:-1,NICKELODEON
+#EXTINF:-1 group-title="Polska",NICKELODEON
 https://cdn-main.lolokoko.tv/NICKELODEON.stream/playlist.m3u8
 
-EXTINF:-1,EskaTVExtra HD
+#EXTINF:-1 group-title="Polska",EskaTVExtra HD
 https://cdn-main.lolokoko.tv/EskaTVExtra.stream/playlist.m3u8
 
-EXTINF:-1,axnwhite HD
+#EXTINF:-1 group-title="Polska",axnwhite HD
 https://cdn-main.lolokoko.tv/axnwhite.stream/playlist.m3u8
 
-EXTINF:-1,axnblack HD
+#EXTINF:-1 group-title="Polska",axnblack HD
 https://cdn-main.lolokoko.tv/axnblack.stream/playlist.m3u8
 
-EXTINF:-1,tvpabc
+#EXTINF:-1 group-title="Polska",tvpabc
 https://cdn-main.lolokoko.tv/tvpabc.stream/playlist.m3u8
 
-EXTINF:-1,filmboxfamily
+#EXTINF:-1 group-title="Polska",filmboxfamily
 https://cdn-main.lolokoko.tv/filmboxfamily.stream/playlist.m3u8
 
-EXTINF:-1,ParamountChannel HD
+#EXTINF:-1 group-title="Polska",ParamountChannel HD
 https://cdn-main.lolokoko.tv/ParamountChannel.stream/playlist.m3u8
 
 
-EXTINF:-1,polsatsport HD
+#EXTINF:-1 group-title="Polska",polsatsport HD
 https://cdn-main.lolokoko.tv/polsatsport.stream/playlist.m3u8
 
-EXTINF:-1,polsatcafe HD
+#EXTINF:-1 group-title="Polska",polsatcafe HD
 https://cdn-main.lolokoko.tv/polsatcafe.stream/playlist.m3u8
 
-EXTINF:-1,FoodNetwork HD
+#EXTINF:-1 group-title="Polska",FoodNetwork HD
 https://cdn-main.lolokoko.tv/FoodNetwork.stream/playlist.m3u8
 
-EXTINF:-1,polsatplay HD
+#EXTINF:-1 group-title="Polska",polsatplay HD
 https://cdn-main.lolokoko.tv/polsatplay.stream/playlist.m3u8
 
-EXTINF:-1,hgtv HD
+#EXTINF:-1 group-title="Polska",hgtv HD
 https://cdn-main.lolokoko.tv/hgtv.stream/playlist.m3u8
 
-EXTINF:-1,Tele5 HD
+#EXTINF:-1 group-title="Polska",Tele5 HD
 https://cdn-main.lolokoko.tv/Tele5.stream/playlist.m3u8
 
-EXTINF:-1,VIASATNATURE HD
+#EXTINF:-1 group-title="Polska",VIASATNATURE HD
 https://cdn-main.lolokoko.tv/VIASATNATURE.stream/playlist.m3u8
 
-EXTINF:-1,bollywood HD
+#EXTINF:-1 group-title="Polska",bollywood HD
 https://cdn-main.lolokoko.tv/bollywood.stream/playlist.m3u8
 
-EXTINF:-1,tbn HD
+#EXTINF:-1 group-title="Polska",tbn HD
 https://cdn-main.lolokoko.tv/tbn.stream/playlist.m3u8
 
-EXTINF:-1,Ducktv HD
+#EXTINF:-1 group-title="Polska",Ducktv HD
 https://cdn-main.lolokoko.tv/Ducktv.stream/playlist.m3u8
 
-EXTINF:-1 group-title="XXX ADULT XXX",private HD
+#EXTINF:-1 group-title="XXX ADULT XXX",private HD
 https://cdn-main.lolokoko.tv/private.stream/playlist.m3u8
 
-EXTINF:-1,TELETOON HD
+#EXTINF:-1 group-title="Polska",TELETOON HD
 https://cdn-main.lolokoko.tv/TELETOON.stream/playlist.m3u8
 
-EXTINF:-1,HBO2 HD
+#EXTINF:-1 group-title="Polska",HBO2 HD
 https://cdn-main.lolokoko.tv/HBO2.stream/playlist.m3u8
 
-EXTINF:-1,NatGeoPeople HD
+#EXTINF:-1 group-title="Polska",NatGeoPeople HD
 https://cdn-main.lolokoko.tv/NatGeoPeople.stream/playlist.m3u8
 
-EXTINF:-1,SUNDANCE HD
+#EXTINF:-1 group-title="Polska",SUNDANCE HD
 https://cdn-main.lolokoko.tv/SUNDANCE.stream/playlist.m3u8
 
-EXTINF:-1 group-title="XXX ADULT XXX",HUSTLER HD
+#EXTINF:-1 group-title="XXX ADULT XXX",HUSTLER HD
 https://cdn-main.lolokoko.tv/HUSTLER.stream/playlist.m3u8
 
-EXTINF:-1 group-title="XXX ADULT XXX",BRAZZERS HD
+#EXTINF:-1 group-title="XXX ADULT XXX",BRAZZERS HD
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/playlist.m3u8
 
-EXTINF:-1,dizi HD
+#EXTINF:-1 group-title="Polska",dizi HD
 https://cdn-main.lolokoko.tv/dizi.stream/playlist.m3u8
 
-EXTINF:-1,MTVLIVE
+#EXTINF:-1 group-title="Polska",MTVLIVE
 https://cdn-main.lolokoko.tv/MTVLIVE.stream/playlist.m3u8
 
-EXTINF:-1,CBeebies
+#EXTINF:-1 group-title="Polska",CBeebies
 https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
 
-EXTINF:-1,JUNIOR HD
+#EXTINF:-1 group-title="Polska",JUNIOR HD
 https://cdn-main.lolokoko.tv/JUNIOR.stream/playlist.m3u8
 
-EXTINF:-1,EpicDrama HD
+#EXTINF:-1 group-title="Polska",EpicDrama HD
 https://cdn-main.lolokoko.tv/EpicDrama.stream/playlist.m3u8
 
-EXTINF:-1,Kinopolska HD
+#EXTINF:-1 group-title="Polska",Kinopolska HD
 https://cdn-main.lolokoko.tv/Kinopolska.stream/playlist.m3u8
 
-EXTINF:-1,filmbox HD
+#EXTINF:-1 group-title="Polska",filmbox HD
 https://cdn-main.lolokoko.tv/filmbox.stream/playlist.m3u8
 
-EXTINF:-1,fightbox HD
+#EXTINF:-1 group-title="Polska",fightbox HD
 https://cdn-main.lolokoko.tv/fightbox.stream/playlist.m3u8
 
-EXTINF:-1,ActiveFamily HD
+#EXTINF:-1 group-title="Polska",ActiveFamily HD
 https://cdn-main.lolokoko.tv/ActiveFamily.stream/playlist.m3u8
 
-EXTINF:-1,VH1
+#EXTINF:-1 group-title="Polska",VH1
 https://cdn-main.lolokoko.tv/VH1.stream/playlist.m3u8
 
-EXTINF:-1,BabyTV
+#EXTINF:-1 group-title="Polska",BabyTV
 https://cdn-main.lolokoko.tv/BabyTV.stream/playlist.m3u8
 
-EXTINF:-1,VIASATHISTORY HD
+#EXTINF:-1 group-title="Polska",VIASATHISTORY HD
 https://cdn-main.lolokoko.tv/VIASATHISTORY.stream/playlist.m3u8
 
-EXTINF:-1 group-title="XXX ADULT XXX",DorcelTV HD
+#EXTINF:-1 group-title="XXX ADULT XXX",DorcelTV HD
 https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
 
-EXTINF:-1,Polonia1 HD
+#EXTINF:-1 group-title="Polska",Polonia1 HD
 https://cdn-main.lolokoko.tv/Polonia1.stream/playlist.m3u8
 
-EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Polska",TLC HD
 https://cdn-main.lolokoko.tv/Tlc.stream/playlist.m3u8
 
-EXTINF:-1,ANIMALPLANET HD
+#EXTINF:-1 group-title="Polska",ANIMALPLANET HD
 https://cdn-main.lolokoko.tv/ANIMALPLANET.stream/playlist.m3u8
 
-EXTINF:-1,nationalgeographic HD
+#EXTINF:-1 group-title="Polska",nationalgeographic HD
 https://cdn-main.lolokoko.tv/nationalgeographic.stream/playlist.m3u8
 
-EXTINF:-1,discoverychannel HD
+#EXTINF:-1 group-title="Polska",discoverychannel HD
 https://cdn-main.lolokoko.tv/discoverychannel.stream/playlist.m3u8
 
-EXTINF:-1,4funtv
+#EXTINF:-1 group-title="Polska",4funtv
 https://cdn-main.lolokoko.tv/4funtv.stream/playlist.m3u8
 
-EXTINF:-1 group-title="XXX ADULT XXX",eroxxx HD
+#EXTINF:-1 group-title="XXX ADULT XXX",eroxxx HD
 https://cdn-main.lolokoko.tv/eroxxx.stream/playlist.m3u8
 
-EXTINF:-1 group-title="XXX ADULT XXX",XXL
+#EXTINF:-1 group-title="XXX ADULT XXX",XXL
 https://cdn-main.lolokoko.tv/xxl.stream/playlist.m3u8
 
-EXTINF:-1,amc HD
+#EXTINF:-1 group-title="Polska",amc HD
 https://cdn-main.lolokoko.tv/amc.stream/playlist.m3u8
 
-EXTINF:-1,BBCEarth HD
+#EXTINF:-1 group-title="Polska",BBCEarth HD
 https://cdn-main.lolokoko.tv/BBCEarth.stream/playlist.m3u8
 
-EXTINF:-1,EuroSport1 HD
+#EXTINF:-1 group-title="Polska",EuroSport1 HD
 https://cdn-main.lolokoko.tv/EuroSport1.stream/playlist.m3u8
 
-EXTINF:-1,DTX HD
+#EXTINF:-1 group-title="Polska",DTX HD
 https://cdn-main.lolokoko.tv/DTX.stream/playlist.m3u8
 
-EXTINF:-1,powertv
+#EXTINF:-1 group-title="Polska",powertv
 https://cdn-main.lolokoko.tv/powertv.stream/playlist.m3u8
 
-EXTINF:-1,cinemaxhd HD
+#EXTINF:-1 group-title="Polska",cinemaxhd HD
 https://cdn-main.lolokoko.tv/cinemaxhd.stream/playlist.m3u8
 
-EXTINF:-1,SuperPolsat HD
+#EXTINF:-1 group-title="Polska",SuperPolsat HD
 https://cdn-main.lolokoko.tv/SuperPolsat.stream/playlist.m3u8
 
-EXTINF:-1,TVN7 HD
+#EXTINF:-1 group-title="Polska",TVN7 HD
 https://cdn-main.lolokoko.tv/TVN7.stream/playlist.m3u8
 
-EXTINF:-1,TVN HD
+#EXTINF:-1 group-title="Polska",TVN HD
 https://cdn-main.lolokoko.tv/TVN.stream/playlist.m3u8
 
-EXTINF:-1,TVP2 HD
+#EXTINF:-1 group-title="Polska",TVP2 HD
 https://cdn-main.lolokoko.tv/TVP2.stream/playlist.m3u8
 
-EXTINF:-1,TVP1 HD
+#EXTINF:-1 group-title="Polska",TVP1 HD
 https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
 
-EXTINF:-1,H2 HD
+#EXTINF:-1 group-title="Polska",H2 HD
 https://cdn-main.lolokoko.tv/H2.stream/playlist.m3u8
 
-EXTINF:-1,HISTORY HD
+#EXTINF:-1 group-title="Polska",HISTORY HD
 https://cdn-main.lolokoko.tv/HISTORY.stream/playlist.m3u8
 
-EXTINF:-1,FilmBoxArthouse
+#EXTINF:-1 group-title="Polska",FilmBoxArthouse
 https://cdn-main.lolokoko.tv/FilmBoxArthouse.stream/playlist.m3u8
 
-EXTINF:-1,FilmBoxPremium HD
+#EXTINF:-1 group-title="Polska",FilmBoxPremium HD
 https://cdn-main.lolokoko.tv/FilmBoxPremium.stream/playlist.m3u8
-
-
 
 
 https://rentry.co/e4hei
