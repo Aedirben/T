@@ -1,20 +1,3 @@
-#EXTINF:-1 group-title="Polska",PoloTv
-https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Polska",Polsat 2
-https://cdn-main.lolokoko.tv/Polsat2.stream/playlist.m3u8
-      
-#EXTINF:-1 group-title="Polska",Polsat
-https://cdn-main.lolokoko.tv/Polsat.stream/playlist.m3u8
-      
-
-#EXTINF:-1 group-title="Polska",TVP
-https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Polska",Polsat Film
-https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
-
-
 #EXTM3U
 #EXTINF:0,Двенадцать месяцев
 #EXTGRP:Союзмультфильмы
@@ -11375,3 +11358,20 @@ https://mults.info/mp4/dve_skazki.mp4
 #EXTINF:-1 group-title="МультЗал ",Дядя Миша
 https://mults.info/mp4/dyadya_misha.mp4
 #EXTINF:-1 group-tit
+
+#EXTINF:-1 group-title="Polska",PoloTv
+https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska",Polsat 2
+https://cdn-main.lolokoko.tv/Polsat2.stream/playlist.m3u8
+      
+#EXTINF:-1 group-title="Polska",Polsat
+https://cdn-main.lolokoko.tv/Polsat.stream/playlist.m3u8
+      
+
+#EXTINF:-1 group-title="Polska",TVP
+https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska",Polsat Film
+https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
+
