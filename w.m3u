@@ -1,17 +1,17 @@
-#EXTINF:0 group-title="Pl",PoloTv
+#EXTINF:-1 group-title="Polska",PoloTv
 https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 
-#EXTINF:0 group-title="Pl",Polsat 2
+#EXTINF:-1 group-title="Polska",Polsat 2
 https://cdn-main.lolokoko.tv/Polsat2.stream/playlist.m3u8
       
-#EXTINF:0 group-title="Pl",Polsat
+#EXTINF:-1 group-title="Polska",Polsat
 https://cdn-main.lolokoko.tv/Polsat.stream/playlist.m3u8
       
 
-#EXTINF:0 group-title="Pl",TVP
+#EXTINF:-1 group-title="Polska",TVP
 https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
 
-#EXTINF:0 group-title="Pl",Polsat Film
+#EXTINF:-1 group-title="Polska",Polsat Film
 https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
 
 
