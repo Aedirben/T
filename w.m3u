@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEJZjRB.png" group-title="Polska",PoloTv
 https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Polska",PoloTv
+#EXTINF:-1 tvg-logo="" group-title="Polska",Disco Polo Music
 https://cdn-main.lolokoko.tv/DiscoPoloMusic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",Polsat 2
