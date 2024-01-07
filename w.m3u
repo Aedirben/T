@@ -55,6 +55,17 @@ https://cdn-main.lolokoko.tv/TVP1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Polska",Polsat Film
 https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Polska",HBO
+https://cdn-main.lolokoko.tv/HBO.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska",HBO 2
+https://cdn-main.lolokoko.tv/HBO2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska",HBO 3
+https://cdn-main.lolokoko.tv/HBO3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska",
+
 
 #EXTINF:-1 group-title="Polska",nicktoons HD
 https://cdn-main.lolokoko.tv/nicktoons.stream/playlist.m3u8
@@ -73,6 +84,12 @@ https://cdn-main.lolokoko.tv/NICKELODEON.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",EskaTVExtra HD
 https://cdn-main.lolokoko.tv/EskaTVExtra.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska",13 Ulica
+https://cdn-main.lolokoko.tv/13Ulica.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Polska",AXN Spin
+https://cdn-main.lolokoko.tv/axnspin.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",axnwhite HD
 https://cdn-main.lolokoko.tv/axnwhite.stream/playlist.m3u8
