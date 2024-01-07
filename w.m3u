@@ -4,8 +4,18 @@ https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polska",Disco Polo Music
 https://cdn-main.lolokoko.tv/DiscoPoloMusic.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Polska",Vox Music TV
+https://cdn-main.lolokoko.tv/VoxMusic.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Polska",TVS
 https://cdn-main.lolokoko.tv/TVS.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Polska",TVP Info
+https://cdn-main.lolokoko.tv/TVPInfo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Polska",TVP Sport
+https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Polska",TVP Kultura    
 https://cdn-main.lolokoko.tv/TVPKultura.stream/playlist.m3u8
@@ -15,6 +25,9 @@ https://cdn-main.lolokoko.tv/TVPHistoria.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Polska",TVP Polonia
 https://cdn-main.lolokoko.tv/TVPPolonia.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Polska",TVP ABC
+https://cdn-main.lolokoko.tv/TVPABC.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Polska",Polsat Doku
 https://cdn-main.lolokoko.tv/PolsatDoku.stream/playlist.m3u8
@@ -155,7 +168,7 @@ https://cdn-main.lolokoko.tv/SUNDANCE.stream/playlist.m3u8
 https://cdn-main.lolokoko.tv/dizi.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",MTVLIVE
-https://cdn-main.lolokoko.tv/MTVLIVE.stream/playlist.m3u8
+https://cdn-main.lolokoko.tv/Mtv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",CBeebies
 https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
@@ -205,8 +218,6 @@ https://cdn-main.lolokoko.tv/discoverychannel.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Polska",4funtv
 https://cdn-main.lolokoko.tv/4funtv.stream/playlist.m3u8
-
-
 
 
 
@@ -21489,6 +21500,9 @@ https://freenote.biz/index.php/YW1lmdwPSF
 
 
 https://freenote.biz/index.php/archive/markup
+
+https://streamtest.in/
+
 
 
 
